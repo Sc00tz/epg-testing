@@ -1,0 +1,578 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="wmur_epg.py">
+  <channel id="WMUR9.1">
+    <display-name>WMUR 9.1</display-name>
+  </channel>
+  <programme start="20261004130000 -0400" stop="20261004170000 -0400" channel="WMUR9.1">
+    <title lang="en">TBA- Network</title>
+    <category lang="en">Other</category>
+  </programme>
+  <programme start="20261004170000 -0400" stop="20261004180000 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 at Five</title>
+    <desc lang="en">The News 9 Evening News Team brings you the day's biggest local and national headlines, along with weather and traffic.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261004180000 -0400" stop="20261004183000 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 at Six</title>
+    <desc lang="en">The News 9 Evening News Team brings you the day's biggest local and national headlines, along with weather and traffic.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261004183000 -0400" stop="20261004190000 -0400" channel="WMUR9.1">
+    <title lang="en">ABC World News Tonight with David Muir</title>
+    <desc lang="en">Veteran news anchor David Muir and the ABC News Team report on the important events and headlines from across the nation and around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20261004190000 -0400" stop="20261004200200 -0400" channel="WMUR9.1">
+    <title lang="en">America's Funniest Home Videos</title>
+    <sub-title lang="en">Kitchen Klutzes, Wedding Blunders, and Animals Being Jerks</sub-title>
+    <desc lang="en">Camcorder footage submitted by real-life people serves to catch them in the midst of unexpected moments of outlandish occurrences and hilarity.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S37E2</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <new />
+  </programme>
+  <programme start="20261004200200 -0400" stop="20261004230000 -0400" channel="WMUR9.1">
+    <title lang="en">The Wonderful World of Disney: Cruella</title>
+    <category lang="en">Other</category>
+  </programme>
+  <programme start="20261004230000 -0400" stop="20261004233500 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 Tonight</title>
+    <desc lang="en">The News 9 Team delivers late-breaking stories, top headlines and a final look at tomorrow's forecast.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261004233500 -0400" stop="20261005000500 -0400" channel="WMUR9.1">
+    <title lang="en">Close-Up</title>
+    <desc lang="en">Political Director Adam Sexton leads in-depth conversations on New Hampshire politics, policy and the issues shaping the Granite State. </desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20261005000500 -0400" stop="20261005003500 -0400" channel="WMUR9.1">
+    <title lang="en">Conversation with the Candidate: John E. Sununu</title>
+    <desc lang="en">WMUR's political director speaks with local candidates, both Republicans and Democrats, on issues affecting Granite Staters.</desc>
+    <category lang="en">Interview</category>
+  </programme>
+  <programme start="20261005003500 -0400" stop="20261005010500 -0400" channel="WMUR9.1">
+    <title lang="en">Very Local: America's Most Delish</title>
+    <category lang="en">Information</category>
+  </programme>
+  <programme start="20261005010500 -0400" stop="20261005013500 -0400" channel="WMUR9.1">
+    <title lang="en">Small Town Big Deal</title>
+    <sub-title lang="en">From Farm to Festival</sub-title>
+    <desc lang="en">Host Rodney Miller, Georgia farmer and antique tractor enthusiast, travels across America to showcase the culture and traditions of small towns.</desc>
+    <category lang="en">Travel</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261005013500 -0400" stop="20261005020500 -0400" channel="WMUR9.1">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Sponsored television programming.</desc>
+    <category lang="en">Other</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261005020500 -0400" stop="20261005023500 -0400" channel="WMUR9.1">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Sponsored television programming.</desc>
+    <category lang="en">Other</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261005023500 -0400" stop="20261005030500 -0400" channel="WMUR9.1">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Sponsored television programming.</desc>
+    <category lang="en">Other</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261005030500 -0400" stop="20261005040000 -0400" channel="WMUR9.1">
+    <title lang="en">Live with Kelly and Mark</title>
+    <desc lang="en">Kelly Ripa and Mark Consuelos host lively discussions about popular topics and welcome celebrities and musical artists to showcase their recent projects.</desc>
+    <category lang="en">Interview</category>
+    <episode-num system="onscreen">S39E20</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261005040000 -0400" stop="20261005043000 -0400" channel="WMUR9.1">
+    <title lang="en">ABC World News Now</title>
+    <desc lang="en">The hosts bring you overnight breaking news, weather, politics, and the stories and videos people will be talking about in the day ahead.</desc>
+    <category lang="en">News</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261005043000 -0400" stop="20261005050000 -0400" channel="WMUR9.1">
+    <title lang="en">Good Morning America First Look</title>
+    <desc lang="en">"Good Morning America First Look" brings you overnight breaking news, weather, politics, and the stories and video people will be talking about.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261005050000 -0400" stop="20261005060000 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 Daybreak</title>
+    <desc lang="en">Start the day with a look at local, regional, statewide and national news, live weather forecasts and traffic updates from the News 9 Team.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261005060000 -0400" stop="20261005070000 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 Daybreak</title>
+    <desc lang="en">Start the day with a look at local, regional, statewide and national news, live weather forecasts and traffic updates from the News 9 Team.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261005070000 -0400" stop="20261005090000 -0400" channel="WMUR9.1">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">A team of news anchors delivers a broadcast that combines in-depth reporting with interviews and segments on entertainment and lifestyle issues.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S51E198</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <new />
+  </programme>
+  <programme start="20261005090000 -0400" stop="20261005100000 -0400" channel="WMUR9.1">
+    <title lang="en">Live with Kelly and Mark</title>
+    <desc lang="en">Kelly Ripa and Mark Consuelos host lively discussions about popular topics and welcome celebrities and musical artists to showcase their recent projects.</desc>
+    <category lang="en">Interview</category>
+    <episode-num system="onscreen">S39E21</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <new />
+  </programme>
+  <programme start="20261005100000 -0400" stop="20261005110000 -0400" channel="WMUR9.1">
+    <title lang="en">Tamron Hall</title>
+    <desc lang="en">Host Tamron Hall provides a variety of topical, meaningful, engaging and entertaining conversations with an assortment of newsmakers and everyday people.</desc>
+    <category lang="en">Interview</category>
+    <episode-num system="onscreen">S8E16</episode-num>
+    <new />
+  </programme>
+  <programme start="20261005110000 -0400" stop="20261005120000 -0400" channel="WMUR9.1">
+    <title lang="en">The View</title>
+    <desc lang="en">The critically acclaimed presentation featuring dynamic women of different ages, experiences and backgrounds discussing their opinions on current events.</desc>
+    <category lang="en">Interview</category>
+    <episode-num system="onscreen">S29E281</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <new />
+  </programme>
+  <programme start="20261005120000 -0400" stop="20261005130000 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 at Noon</title>
+    <desc lang="en">The News 9 News Team recaps the morning's top stories with the latest news, weather, traffic and sports updates.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261005130000 -0400" stop="20261005140000 -0400" channel="WMUR9.1">
+    <title lang="en">GMA3</title>
+    <desc lang="en">The host shares breaking news in politics, social issues, entertainment, lifestyle and weather, while also conducting interviews.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S7E11</episode-num>
+  </programme>
+  <programme start="20261005140000 -0400" stop="20261005150000 -0400" channel="WMUR9.1">
+    <title lang="en">Dateline</title>
+    <sub-title lang="en">Open Desert</sub-title>
+    <desc lang="en">16-year-old Britney Ujaky goes missing and her small Nevada town come together to find a potential suspect, a mysterious cowboy.</desc>
+    <category lang="en">True</category>
+    <episode-num system="onscreen">S9E1</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261005150000 -0400" stop="20261005160000 -0400" channel="WMUR9.1">
+    <title lang="en">General Hospital</title>
+    <desc lang="en">Residents deal with everyday challenges in love, intrigue and mystery surrounding the various establishments in the upstate New York town of Port Charles.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">S63E272</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261005160000 -0400" stop="20261005170000 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 at Four</title>
+    <desc lang="en">The News 9 Evening News Team brings you the day's biggest local and national headlines, along with weather and traffic.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261005170000 -0400" stop="20261005180000 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 at Five</title>
+    <desc lang="en">The News 9 Evening News Team brings you the day's biggest local and national headlines, along with weather and traffic.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261005180000 -0400" stop="20261005183000 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 at Six</title>
+    <desc lang="en">The News 9 Evening News Team brings you the day's biggest local and national headlines, along with weather and traffic.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261005183000 -0400" stop="20261005190000 -0400" channel="WMUR9.1">
+    <title lang="en">ABC World News Tonight with David Muir</title>
+    <desc lang="en">Veteran news anchor David Muir and the ABC News Team report on the important events and headlines from across the nation and around the world.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261005190000 -0400" stop="20261005193000 -0400" channel="WMUR9.1">
+    <title lang="en">New Hampshire Chronicle</title>
+    <desc lang="en">The people and places that make New Hampshire special. Hosts Sean McDonald and Erin Fehlau.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261005193000 -0400" stop="20261005200000 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 at 7:30pm</title>
+    <desc lang="en">The News 9 Evening News Team brings you the day's biggest local and national headlines, along with weather and traffic.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261005200000 -0400" stop="20261005230000 -0400" channel="WMUR9.1">
+    <title lang="en">TBA- Network</title>
+    <category lang="en">Other</category>
+  </programme>
+  <programme start="20261005230000 -0400" stop="20261005233500 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 Tonight</title>
+    <desc lang="en">The News 9 Team delivers late-breaking stories, top headlines and a final look at tomorrow's forecast.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261005233500 -0400" stop="20261006003700 -0400" channel="WMUR9.1">
+    <title lang="en">Jimmy Kimmel Live</title>
+    <desc lang="en">Jimmy Kimmel hosts a late-night talk show including monologues, comedy sketches and interviews with talented celebrities and musical guests.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S25E18</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <new />
+  </programme>
+  <programme start="20261006003700 -0400" stop="20261006010600 -0400" channel="WMUR9.1">
+    <title lang="en">Nightline</title>
+    <desc lang="en">News reporters anchor the critically acclaimed program that presents in-depth reporting on the major news stories of the day from around the world.</desc>
+    <category lang="en">News</category>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <new />
+  </programme>
+  <programme start="20261006010600 -0400" stop="20261006020600 -0400" channel="WMUR9.1">
+    <title lang="en">The Jennifer Hudson Show</title>
+    <desc lang="en">Victoria Monét promotes her new album, "Frequency of Love." Jennifer welcomes viral 6-year-old rapper Waylon Pearson. Charles Jones stops by!</desc>
+    <category lang="en">Other</category>
+    <episode-num system="onscreen">S5E16</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <new />
+  </programme>
+  <programme start="20261006020600 -0400" stop="20261006023600 -0400" channel="WMUR9.1">
+    <title lang="en">25 Words or Less</title>
+    <desc lang="en">Host Meredith Vieira leads two teams of competitors who attempt to solve a list of five words using less than 25 word clues to win the $10,000 prize.</desc>
+    <category lang="en">Game/Quiz</category>
+    <episode-num system="onscreen">S8E20</episode-num>
+    <new />
+  </programme>
+  <programme start="20261006023600 -0400" stop="20261006030600 -0400" channel="WMUR9.1">
+    <title lang="en">25 Words or Less</title>
+    <desc lang="en">Host Meredith Vieira leads two teams of competitors who attempt to solve a list of five words using less than 25 word clues to win the $10,000 prize.</desc>
+    <category lang="en">Game/Quiz</category>
+    <episode-num system="onscreen">S7E21</episode-num>
+  </programme>
+  <programme start="20261006030600 -0400" stop="20261006040000 -0400" channel="WMUR9.1">
+    <title lang="en">Live with Kelly and Mark</title>
+    <desc lang="en">Kelly Ripa and Mark Consuelos host lively discussions about popular topics and welcome celebrities and musical artists to showcase their recent projects.</desc>
+    <category lang="en">Interview</category>
+  </programme>
+  <programme start="20261006040000 -0400" stop="20261006043000 -0400" channel="WMUR9.1">
+    <title lang="en">ABC World News Now</title>
+    <desc lang="en">The hosts bring you overnight breaking news, weather, politics, and the stories and videos people will be talking about in the day ahead.</desc>
+    <category lang="en">News</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <new />
+  </programme>
+  <programme start="20261006043000 -0400" stop="20261006050000 -0400" channel="WMUR9.1">
+    <title lang="en">Good Morning America First Look</title>
+    <desc lang="en">"Good Morning America First Look" brings you overnight breaking news, weather, politics, and the stories and video people will be talking about.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261006050000 -0400" stop="20261006060000 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 Daybreak</title>
+    <desc lang="en">Start the day with a look at local, regional, statewide and national news, live weather forecasts and traffic updates from the News 9 Team.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261006060000 -0400" stop="20261006070000 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 Daybreak</title>
+    <desc lang="en">Start the day with a look at local, regional, statewide and national news, live weather forecasts and traffic updates from the News 9 Team.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261006070000 -0400" stop="20261006090000 -0400" channel="WMUR9.1">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">A team of news anchors delivers a broadcast that combines in-depth reporting with interviews and segments on entertainment and lifestyle issues.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S51E199</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <new />
+  </programme>
+  <programme start="20261006090000 -0400" stop="20261006100000 -0400" channel="WMUR9.1">
+    <title lang="en">Live with Kelly and Mark</title>
+    <desc lang="en">Kelly Ripa and Mark Consuelos host lively discussions about popular topics and welcome celebrities and musical artists to showcase their recent projects.</desc>
+    <category lang="en">Interview</category>
+    <episode-num system="onscreen">S39E22</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <new />
+  </programme>
+  <programme start="20261006100000 -0400" stop="20261006110000 -0400" channel="WMUR9.1">
+    <title lang="en">Tamron Hall</title>
+    <desc lang="en">Host Tamron Hall provides a variety of topical, meaningful, engaging and entertaining conversations with an assortment of newsmakers and everyday people.</desc>
+    <category lang="en">Interview</category>
+    <episode-num system="onscreen">S8E17</episode-num>
+    <new />
+  </programme>
+  <programme start="20261006110000 -0400" stop="20261006120000 -0400" channel="WMUR9.1">
+    <title lang="en">The View</title>
+    <desc lang="en">The critically acclaimed presentation featuring dynamic women of different ages, experiences and backgrounds discussing their opinions on current events.</desc>
+    <category lang="en">Interview</category>
+    <episode-num system="onscreen">S29E282</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <new />
+  </programme>
+  <programme start="20261006120000 -0400" stop="20261006130000 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 at Noon</title>
+    <desc lang="en">The News 9 News Team recaps the morning's top stories with the latest news, weather, traffic and sports updates.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261006130000 -0400" stop="20261006140000 -0400" channel="WMUR9.1">
+    <title lang="en">GMA3</title>
+    <desc lang="en">The host shares breaking news in politics, social issues, entertainment, lifestyle and weather, while also conducting interviews.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S7E12</episode-num>
+  </programme>
+  <programme start="20261006140000 -0400" stop="20261006150000 -0400" channel="WMUR9.1">
+    <title lang="en">Dateline</title>
+    <sub-title lang="en">The Day Akia Disappeared</sub-title>
+    <desc lang="en">An eight months pregnant woman goes missing right before her baby shower and her panicked family raises the alarm.</desc>
+    <category lang="en">True</category>
+    <episode-num system="onscreen">S9E2</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261006150000 -0400" stop="20261006160000 -0400" channel="WMUR9.1">
+    <title lang="en">General Hospital</title>
+    <desc lang="en">Residents deal with everyday challenges in love, intrigue and mystery surrounding the various establishments in the upstate New York town of Port Charles.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">S63E273</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261006160000 -0400" stop="20261006170000 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 at Four</title>
+    <desc lang="en">The News 9 Evening News Team brings you the day's biggest local and national headlines, along with weather and traffic.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261006170000 -0400" stop="20261006180000 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 at Five</title>
+    <desc lang="en">The News 9 Evening News Team brings you the day's biggest local and national headlines, along with weather and traffic.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261006180000 -0400" stop="20261006183000 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 at Six</title>
+    <desc lang="en">The News 9 Evening News Team brings you the day's biggest local and national headlines, along with weather and traffic.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261006183000 -0400" stop="20261006190000 -0400" channel="WMUR9.1">
+    <title lang="en">ABC World News Tonight with David Muir</title>
+    <desc lang="en">Veteran news anchor David Muir and the ABC News Team report on the important events and headlines from across the nation and around the world.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261006190000 -0400" stop="20261006193000 -0400" channel="WMUR9.1">
+    <title lang="en">New Hampshire Chronicle</title>
+    <desc lang="en">The people and places that make New Hampshire special. Hosts Sean McDonald and Erin Fehlau.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261006193000 -0400" stop="20261006200000 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 at 7:30pm</title>
+    <desc lang="en">The News 9 Evening News Team brings you the day's biggest local and national headlines, along with weather and traffic.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261006200000 -0400" stop="20261006220000 -0400" channel="WMUR9.1">
+    <title lang="en">Dancing with the Stars</title>
+    <sub-title lang="en">Mariah Carey Night</sub-title>
+    <desc lang="en">Celebrities are paired with professional dancers in order to train for a live televised ballroom dancing competition, and one couple is eliminated every week.</desc>
+    <category lang="en">True</category>
+    <episode-num system="onscreen">S35E5</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261006220000 -0400" stop="20261006230000 -0400" channel="WMUR9.1">
+    <title lang="en">RJ Decker</title>
+    <sub-title lang="en">The Angler</sub-title>
+    <desc lang="en">A disgraced newspaper photographer and ex-con starts over as a private investigator. He tackles cases that range from slightly odd to outright bizarre.</desc>
+    <category lang="en">Information</category>
+    <episode-num system="onscreen">S2E4</episode-num>
+  </programme>
+  <programme start="20261006230000 -0400" stop="20261006233500 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 Tonight</title>
+    <desc lang="en">The News 9 Team delivers late-breaking stories, top headlines and a final look at tomorrow's forecast.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261006233500 -0400" stop="20261007003700 -0400" channel="WMUR9.1">
+    <title lang="en">Jimmy Kimmel Live</title>
+    <desc lang="en">Jimmy Kimmel hosts a late-night talk show including monologues, comedy sketches and interviews with talented celebrities and musical guests.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S25E19</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <new />
+  </programme>
+  <programme start="20261007003700 -0400" stop="20261007010600 -0400" channel="WMUR9.1">
+    <title lang="en">Nightline</title>
+    <desc lang="en">News reporters anchor the critically acclaimed program that presents in-depth reporting on the major news stories of the day from around the world.</desc>
+    <category lang="en">News</category>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <new />
+  </programme>
+  <programme start="20261007010600 -0400" stop="20261007020600 -0400" channel="WMUR9.1">
+    <title lang="en">The Jennifer Hudson Show</title>
+    <desc lang="en">Jennifer Hudson invites celebrities and community heroes for candid sit-down interviews as well as featuring uplifting stories and musical performances.</desc>
+    <category lang="en">Other</category>
+    <episode-num system="onscreen">S5E17</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <new />
+  </programme>
+  <programme start="20261007020600 -0400" stop="20261007023600 -0400" channel="WMUR9.1">
+    <title lang="en">25 Words or Less</title>
+    <desc lang="en">Host Meredith Vieira leads two teams of competitors who attempt to solve a list of five words using less than 25 word clues to win the $10,000 prize.</desc>
+    <category lang="en">Game/Quiz</category>
+    <episode-num system="onscreen">S8E21</episode-num>
+    <new />
+  </programme>
+  <programme start="20261007023600 -0400" stop="20261007030600 -0400" channel="WMUR9.1">
+    <title lang="en">25 Words or Less</title>
+    <desc lang="en">Host Meredith Vieira leads two teams of competitors who attempt to solve a list of five words using less than 25 word clues to win the $10,000 prize.</desc>
+    <category lang="en">Game/Quiz</category>
+    <episode-num system="onscreen">S8E124</episode-num>
+  </programme>
+  <programme start="20261007030600 -0400" stop="20261007040000 -0400" channel="WMUR9.1">
+    <title lang="en">Live with Kelly and Mark</title>
+    <desc lang="en">Kelly Ripa and Mark Consuelos host lively discussions about popular topics and welcome celebrities and musical artists to showcase their recent projects.</desc>
+    <category lang="en">Interview</category>
+  </programme>
+  <programme start="20261007040000 -0400" stop="20261007043000 -0400" channel="WMUR9.1">
+    <title lang="en">ABC World News Now</title>
+    <desc lang="en">The hosts bring you overnight breaking news, weather, politics, and the stories and videos people will be talking about in the day ahead.</desc>
+    <category lang="en">News</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <new />
+  </programme>
+  <programme start="20261007043000 -0400" stop="20261007050000 -0400" channel="WMUR9.1">
+    <title lang="en">Good Morning America First Look</title>
+    <desc lang="en">"Good Morning America First Look" brings you overnight breaking news, weather, politics, and the stories and video people will be talking about.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261007050000 -0400" stop="20261007060000 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 Daybreak</title>
+    <desc lang="en">Start the day with a look at local, regional, statewide and national news, live weather forecasts and traffic updates from the News 9 Team.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261007060000 -0400" stop="20261007070000 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 Daybreak</title>
+    <desc lang="en">Start the day with a look at local, regional, statewide and national news, live weather forecasts and traffic updates from the News 9 Team.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261007070000 -0400" stop="20261007090000 -0400" channel="WMUR9.1">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">A team of news anchors delivers a broadcast that combines in-depth reporting with interviews and segments on entertainment and lifestyle issues.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S51E200</episode-num>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <new />
+  </programme>
+  <programme start="20261007090000 -0400" stop="20261007100000 -0400" channel="WMUR9.1">
+    <title lang="en">Live with Kelly and Mark</title>
+    <desc lang="en">Kelly Ripa and Mark Consuelos host lively discussions about popular topics and welcome celebrities and musical artists to showcase their recent projects.</desc>
+    <category lang="en">Interview</category>
+    <episode-num system="onscreen">S39E23</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <new />
+  </programme>
+  <programme start="20261007100000 -0400" stop="20261007110000 -0400" channel="WMUR9.1">
+    <title lang="en">Tamron Hall</title>
+    <desc lang="en">Host Tamron Hall provides a variety of topical, meaningful, engaging and entertaining conversations with an assortment of newsmakers and everyday people.</desc>
+    <category lang="en">Interview</category>
+    <episode-num system="onscreen">S8E18</episode-num>
+    <new />
+  </programme>
+  <programme start="20261007110000 -0400" stop="20261007120000 -0400" channel="WMUR9.1">
+    <title lang="en">The View</title>
+    <desc lang="en">The critically acclaimed presentation featuring dynamic women of different ages, experiences and backgrounds discussing their opinions on current events.</desc>
+    <category lang="en">Interview</category>
+    <episode-num system="onscreen">S29E283</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <new />
+  </programme>
+  <programme start="20261007120000 -0400" stop="20261007130000 -0400" channel="WMUR9.1">
+    <title lang="en">News 9 at Noon</title>
+    <desc lang="en">The News 9 News Team recaps the morning's top stories with the latest news, weather, traffic and sports updates.</desc>
+    <category lang="en">News</category>
+    <new />
+  </programme>
+  <programme start="20261007130000 -0400" stop="20261007140000 -0400" channel="WMUR9.1">
+    <title lang="en">GMA3</title>
+    <desc lang="en">The host shares breaking news in politics, social issues, entertainment, lifestyle and weather, while also conducting interviews.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S7E13</episode-num>
+  </programme>
+  <programme start="20261007140000 -0400" stop="20261007150000 -0400" channel="WMUR9.1">
+    <title lang="en">Dateline</title>
+    <sub-title lang="en">A Walk in the Mountains</sub-title>
+    <desc lang="en">Investigative reports, breaking news stories, profiles of leading newsmakers and other features explore current events and topics of special interest.</desc>
+    <category lang="en">True</category>
+    <episode-num system="onscreen">S9E17</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+</tv>
